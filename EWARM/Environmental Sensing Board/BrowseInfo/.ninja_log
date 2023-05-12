@@ -1,0 +1,79 @@
+# ninja log v5
+5	624	7055611440000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Application/User/Core/stm32f0xx_hal_msp.xcl	cee5aa08d2c83cb7
+71	650	7055611440000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Application/User/Core/stm32f0xx_it.xcl	d0e860452117ca53
+641	936	7055611440000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Application/User/Core/main.xcl	822f38001a8207e3
+665	958	7055611440000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/CMSIS/system_stm32f0xx.xcl	887a48be0c661664
+951	1195	7055611450000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Application/User/FATFS/App/fatfs.xcl	578c60d904541b42
+974	1221	7055611450000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc.xcl	1a8bcf6ea6217f39
+1213	1447	7055611450000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc_ex.xcl	f69c3969356cb150
+1238	1478	7055611450000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Application/User/FATFS/Target/user_diskio.xcl	446bfa9de13fe76f
+1468	1686	7055611450000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal.xcl	7c3407b8602bec2e
+1494	1717	7055611450000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash.xcl	36daeed466835b2
+1708	1930	7055611450000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_cortex.xcl	ea3162b5c7fb7e6f
+1731	1977	7055611450000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_can.xcl	c851843bd4cc9c16
+1948	2165	7055611460000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_dma.xcl	f968d384703bedb3
+1995	2226	7055611460000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_exti.xcl	45235a5a1c47aed1
+2184	2414	7055611460000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c_ex.xcl	e04e9be3a3cbdd70
+2243	2466	7055611460000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_gpio.xcl	10548a10dc52387
+2432	2641	7055611460000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c.xcl	33b7290adb19203
+2483	2721	7055611460000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr.xcl	24e31271e3d57301
+2660	2918	7055611460000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash_ex.xcl	760bf0d7de16b90
+2737	3011	7055611460000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr_ex.xcl	c0403803a53114c5
+2937	3274	7055611470000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rtc.xcl	9f9a00b0105003cb
+3028	3306	7055611470000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc.xcl	c87ceace37fe361a
+3291	3526	7055611470000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc_ex.xcl	d5e5b9d1f18f8f2d
+3322	3551	7055611470000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rtc_ex.xcl	10a5b63f2cc21bc7
+3544	3783	7055611470000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi_ex.xcl	b09d6651a2b221ed
+3567	3817	7055611470000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi.xcl	e9704bb50e5cf89d
+3804	4120	7055611470000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart.xcl	31ba8d1969fe0b3a
+3835	4145	7055611470000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim_ex.xcl	d6ff78e40fd53283
+4138	4395	7055611480000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim.xcl	7a8533074c4c2ddd
+4166	4454	7055611480000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Middlewares/FatFs/ccsbcs.xcl	9e8a4a5212583ca6
+4414	4651	7055611480000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart_ex.xcl	ecd1eeefa9497924
+4471	4714	7055611480000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Middlewares/FatFs/diskio.xcl	52bfdf934888a1e8
+4669	4874	7055611480000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Middlewares/FatFs/syscall.xcl	2dce6497055e0ece
+4892	6188	7055611500389794	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Application/User/Core/stm32f0xx_it.pbi	b7c0e37581ac44b0
+4731	6312	7055611501600726	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Application/User/Core/main.pbi	971d94e118a2cf87
+6318	6520	7055611500000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Middlewares/FatFs/ff.xcl	8be8b9c19ff84b8a
+6536	6734	7055611500000000	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Middlewares/FatFs/ff_gen_drv.xcl	2a899dc78ba67a36
+6196	7052	7055611509044427	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Application/User/Core/stm32f0xx_hal_msp.pbi	4d0444e2758279ab
+6750	7600	7055611514514351	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Application/User/FATFS/App/fatfs.pbi	3579a83b67821ed0
+7058	8045	7055611518985442	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal.pbi	24b7fa80f9ddfc91
+7606	8468	7055611523202481	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc.pbi	953b0fca7ef1ce7e
+8052	8826	7055611526751518	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/CMSIS/system_stm32f0xx.pbi	a254ffe927633959
+8475	9420	7055611532719547	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc_ex.pbi	dcfb9f533e6fee0c
+8833	9880	7055611537326916	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Application/User/FATFS/Target/user_diskio.pbi	6addca78c9dda6d5
+9427	10481	7055611543333327	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_can.pbi	9b899d8a2ede49ba
+9888	10826	7055611546761009	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash.pbi	b9fb3281504f2692
+10487	11299	7055611551509623	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_exti.pbi	e013b828cc4022d4
+10833	11827	7055611556764666	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c.pbi	9307bd5fd4d5ad9d
+11306	12047	7055611558982874	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_cortex.pbi	54645312a56ff10b
+11834	12691	7055611565434844	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash_ex.pbi	193acf093faa750c
+12054	13191	7055611567634737	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_dma.pbi	2e683d949efc47c2
+12698	13887	7055611577138208	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_gpio.pbi	bf137e3a0563d931
+13196	14355	7055611581978118	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi_ex.pbi	817fdbaab54392ea
+13894	15437	7055611592905619	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rtc.pbi	ad7e0696626d8763
+14362	15772	7055611596224608	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rtc_ex.pbi	8cc957ae9f604c52
+15444	16931	7055611607757271	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr_ex.pbi	aa1e03edd0ec93f0
+15778	17187	7055611610377621	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c_ex.pbi	9be04992568a0ab7
+16938	18086	7055611619347898	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc_ex.pbi	221e43d3dd78defe
+17192	18361	7055611621894398	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim.pbi	957d0867ebe0353a
+18092	19410	7055611632612837	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim_ex.pbi	5ea8d373f6ecedb1
+18370	19946	7055611637981729	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart.pbi	ace53f0b40330aba
+19416	20688	7055611645367037	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart_ex.pbi	13a698e7e0309185
+19953	21068	7055611649199182	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr.pbi	5abd0066583907d5
+20694	21997	7055611658466708	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi.pbi	11a928dd162193c1
+21074	22233	7055611660809330	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc.pbi	9ec4b137128777a6
+22003	23082	7055611669283632	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Middlewares/FatFs/diskio.pbi	95ea8bdaddafdbf1
+22239	23339	7055611671902500	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Middlewares/FatFs/ccsbcs.pbi	dc596aa2d0a0d12a
+23086	24512	7055611683603711	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Middlewares/FatFs/syscall.pbi	9075de9170e1388b
+23345	25076	7055611689275090	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Middlewares/FatFs/ff.pbi	d087d72b1041e0cc
+24519	25791	7055611696435338	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Environmental Sensing Board_part2.pbi	def840d9ada89fdd
+25082	26288	7055611701372155	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Environmental Sensing Board_part4.pbi	9a2d9aa3a7a22fa4
+25804	26925	7055611707768091	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Environmental Sensing Board_part0.pbi	5059f33ab3dab372
+26305	27408	7055611712595272	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Environmental Sensing Board_part1.pbi	d7dad3cbee46e458
+26938	28092	7055611719397001	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Environmental Sensing Board_part3.pbi	e35861ebf92562b1
+27421	28403	7055611722518636	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Middlewares/FatFs/ff_gen_drv.pbi	3cf6a3a0aa5dc675
+28409	29286	7055611731394902	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Environmental Sensing Board_part5.pbi	1528dbcab8ba639d
+29299	30144	7055611739950840	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Environmental Sensing Board.pbd	aef1f11daecf05a3
+30159	34984	7055611787482655	C:/Users/dogu/Documents/Environmental Sensing Board/EWARM/Environmental Sensing Board/BrowseInfo/Environmental Sensing Board.pbw	a292ea98d7b1b3cb
